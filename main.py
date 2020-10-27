@@ -19,7 +19,7 @@ VERBOSE: if set to False, the console will display all the required info to keep
 """
 
 
-PROJECT_DIRECTORY = '/Users/Dani/PycharmProjects/logbook_website_project'
+PROJECT_DIRECTORY = '/Users/Python'
 DIRS_TO_SKIP = ['env', 'venv', 'conda']
 VERBOSE = False
 
