@@ -1,0 +1,15 @@
+****************************************************
+
+Made for Python V3.7 (not tested on other versions)
+
+GNU General Public License V3
+
+Code by dcgolobart, OCT-2020
+
+****************************************************
+
+The script “main.py” is aimed at creating a “requirements.txt” for Python projects. This requirements file contains the installed package versions used on a particular python project. So another user can test or use your project, after installing the aforementioned python packages.
+
+Instructions of use in the script itself.
+
+Enjoy, and feel free to improve this project!
